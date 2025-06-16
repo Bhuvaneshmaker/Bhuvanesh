@@ -8,8 +8,8 @@ const Projects = () => {
       description: 'Full-stack e-commerce solution with React, Node.js, and Stripe integration. Features include user authentication, product management, and payment processing.',
       image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600',
       tech: ['React', 'Node.js', 'MySQL', 'Stripe'],
-      github: '#',
-      live: '#',
+      github: 'https://github.com/Bhuvaneshmaker/',
+      live: 'https://bhuvidevo-ecom.netlify.app/',
       featured: true
     },
     {
@@ -17,7 +17,7 @@ const Projects = () => {
       description: 'Collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.',
       image: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=600',
       tech: ['React', 'Firebase', 'Material-UI', 'Socket.io'],
-      github: '#',
+      github: 'https://github.com/Bhuvaneshmaker',
       live: '#',
       featured: true
     },
@@ -26,7 +26,7 @@ const Projects = () => {
       description: 'Beautiful weather application with location-based forecasts, interactive charts, and responsive design.',
       image: 'https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=600',
       tech: ['Vue.js', 'Chart.js', 'OpenWeather API'],
-      github: '#',
+      github: 'https://github.com/Bhuvaneshmaker',
       live: '#',
       featured: false
     },
@@ -35,8 +35,8 @@ const Projects = () => {
       description: 'Custom content management system for portfolios with drag-and-drop page builder and SEO optimization.',
       image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=600',
       tech: ['Next.js', 'Prisma', 'TailwindCSS'],
-      github: '#',
-      live: '#',
+      github: 'https://github.com/Bhuvaneshmaker/Bhuvanesh',
+      live: 'https://bhuvidevo-portfolio.netlify.app',
       featured: false
     },
     {
@@ -44,7 +44,7 @@ const Projects = () => {
       description: 'Analytics dashboard for social media metrics with data visualization and automated reporting features.',
       image: 'https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=600',
       tech: ['Python', 'Django', 'Chart.js', 'PostgreSQL'],
-      github: '#',
+      github: 'https://github.com/Bhuvaneshmaker',
       live: '#',
       featured: false
     },
@@ -53,7 +53,7 @@ const Projects = () => {
       description: 'Modern real estate platform with property listings, virtual tours, and advanced search functionality.',
       image: 'https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=600',
       tech: ['React', 'Express', 'MongoDB', 'Mapbox'],
-      github: '#',
+      github: 'https://github.com/Bhuvaneshmaker',
       live: '#',
       featured: false
     }
