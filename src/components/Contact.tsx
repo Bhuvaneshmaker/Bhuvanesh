@@ -32,7 +32,7 @@ const Contact = () => {
             <h2 className="text-4xl md:text-5xl font-bold text-white mb-6 animate-bounce">
               Get In Touch
             </h2>
-            <div className="w-24 h-1 bg-red-500 mx-auto mb-6"></div>
+            <div className="w-24 h-1 bg-gradient-to-r from-red-600 to-orange-500 group-hover:w-full transition-all duration-200 mx-auto mb-6"></div>
             <p className="text-gray-400 text-lg max-w-2xl mx-auto">
               I'm always interested in new opportunities and exciting projects. 
               Let's discuss how we can work together!
