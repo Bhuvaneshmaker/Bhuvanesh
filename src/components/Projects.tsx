@@ -8,7 +8,7 @@ const Projects = () => {
       description: 'Full-stack e-commerce solution with React, Node.js, and Stripe integration. Features include user authentication, product management, and payment processing.',
       image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600',
       tech: ['React', 'Node.js', 'MySQL', 'Stripe'],
-      github: 'https://github.com/Bhuvaneshmaker/',
+      github: 'https://github.com/Bhuvaneshmaker/BhuviDevo',
       live: 'https://bhuvidevo-ecom.netlify.app/',
       featured: true
     },
