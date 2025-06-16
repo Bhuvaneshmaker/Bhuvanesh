@@ -47,7 +47,7 @@ const Skills = () => {
             <h2 className="text-4xl md:text-5xl font-bold text-white mb-6 animate-bounce">
               Skills & Technologies
             </h2>
-            <div className="w-24 h-1 bg-red-500 mx-auto"></div>
+            <div className="w-24 h-1 bg-gradient-to-r from-red-600 to-orange-500 group-hover:w-full transition-all duration-200 mx-auto"></div>
           </div>
           
           <div className="grid lg:grid-cols-2 gap-12">
