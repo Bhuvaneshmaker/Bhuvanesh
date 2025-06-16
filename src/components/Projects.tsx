@@ -67,7 +67,7 @@ const Projects = () => {
             <h2 className="text-4xl md:text-5xl font-bold text-white mb-6 animate-bounce">
               Featured Projects
             </h2>
-            <div className="w-24 h-1 bg-red-500 mx-auto mb-6"></div>
+            <div className="w-24 h-1 bg-gradient-to-r from-red-600 to-orange-500 group-hover:w-full transition-all duration-200 mx-auto mb-6"></div>
             <p className="text-gray-400 text-lg max-w-2xl mx-auto">
               Here are some of my recent projects that showcase my skills and passion for creating amazing digital experiences.
             </p>
