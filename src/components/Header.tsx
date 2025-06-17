@@ -45,7 +45,7 @@ const Header = () => {
               <button
                 key={item.id}
                 onClick={() => scrollToSection(item.id)}
-                className="text-gray-300 hover:text-red-400 transition-colors duration-200  font-medium">
+                className="absolute left-4 top-3.5 h-5 w-5 text-gray-400 hover:text-red-400 transition-colors duration-200  font-medium">
                 {item.label}<div className="w-24 h-1 absolute right-2 top-2 bg-gradient-to-r from-purple-600 to-orange-500 text-white px-4 py-1.5 rounded-lg text-sm font-medium hover:from-red-800 hover:to-orange-600 transition-all duration-200 mx-auto "></div>
               </button>
             ))}
